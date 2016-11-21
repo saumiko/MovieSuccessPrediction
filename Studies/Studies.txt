@@ -1,3 +1,19 @@
 https://www.burakkanber.com/blog/machine-learning-sentiment-analysis/
 https://www.youtube.com/watch?v=ytUHvMNnzZk
 http://www.aaai.org/Papers/Symposia/Spring/2006/SS-06-03/SS06-03-030.pdf?q=who-got-kicked-off-american-idol-may-5
+
+very important link ---->
+
+http://anthology.aclweb.org/S/S15/S15-2.pdf#page=689
+
+Summary of Algorithms --->
+
+http://search.proquest.com/openview/3bb4518ced02bbd25b28594d28b35094/1?pq-origsite=gscholar
+
+A very naive approach ---->
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071226
+
+Lexicon based sentiment analysis  ----->
+
+http://delivery.acm.org/10.1145/2010000/2000518/coli_a_00049.pdf?ip=27.147.226.92&id=2000518&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=867392426&CFTOKEN=97626967&__acm__=1479696871_89b2e8281c7d7b209d91d2b487bf468d
